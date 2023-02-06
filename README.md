@@ -1,2 +1,2 @@
 # testvse
-test repo
+test repository for presentation purposes
