@@ -11,6 +11,8 @@ Tento commit byl pridan z devu 2
 Tento commit byl pridan z devu 3
 
 
+tento commit pridavam z devu 4
+
 
 
 
