@@ -1,12 +1,15 @@
 
 ANO, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
 
-Pridano z devu
 Tento commit byl pridan z devu 2
 
 Tento commit byl pridan z devu 3
 
-tento commit pridavam z masteru 4
+tento commit pridam z devu 4
+
+
+
+
 
 
 
