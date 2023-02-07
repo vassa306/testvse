@@ -1,7 +1,7 @@
 
-ANO, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
+ANO, ale vždyť je to pravda, toto je opravdu první práce s konflikte!!!
 
-Pridano z devu
+Pridano z masteru
 
 Tento commit byl pridan z devu 2
 
