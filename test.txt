@@ -1,1 +1,1 @@
-add test.txt file into git
+added test.txt file into git repository
