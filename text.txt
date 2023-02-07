@@ -13,7 +13,7 @@ tento commit pridam z devu 5
 
 tento commit pridam z devu 6
 
-tento comit pridan z devu 7
+This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
