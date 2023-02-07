@@ -1,7 +1,10 @@
 
-ANO, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
 
-Pridano z master vetve a taky dev větve
+Pridano z masteru
+
+ANO, ale vždyť je to pravda, toto opravdu je naše první práce s konfliktem!!!!
+
+Ale ne tohle je prece pridano z masteru pokud se nemylim
 
 Tento commit byl pridan z devu 2
 
