@@ -15,6 +15,8 @@ tento commit pridam z devu 6
 
 tento comit pridan z devu 7
 
+tento commit je z feature branche
+
 
 
 
