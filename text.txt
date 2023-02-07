@@ -11,7 +11,7 @@ tento commit pridam z devu 4
 
 tento commit pridam z devu 5
 
-tento commit pridam z devu 6
+This commit pridam z devu 6
 
 This comit pridan z devu 7
 
