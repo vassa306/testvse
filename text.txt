@@ -1,5 +1,5 @@
 
-ANO, ale vždyť je to pravda, toto opravdu je naše první práce s konfliktem!!!!
+ANO, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
 
 Pridano z dev vetve
 
