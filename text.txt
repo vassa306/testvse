@@ -1,7 +1,12 @@
+
 ANO, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
+
 
 Pridano z devu
 Tento commit byl pridan z devu 2
+
+Tento commit byl pridan z devu 2
+
 
 Tento commit byl pridan z devu 3
 
