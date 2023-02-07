@@ -1,1 +1,3 @@
-Prave je to má vubec má je první práce s git!!!
+
+Hlavne tohle je první práce s gitem!!!
+
