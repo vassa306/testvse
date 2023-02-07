@@ -2,9 +2,9 @@ Ne, ale vždyť je to pravda, toto je opravdu první práce s konfliktem!!!
 
 Pridano z devu 1
 
-Tento commit byl pridan z devu 2
+Pridano z devu 2
 
-Tento commit byl pridan z devu 3
+pridano z devu 3
 
 
 
