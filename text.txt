@@ -30,6 +30,9 @@ A tohle mergne feature do masteru
 
 coommit added by rebase  1
 
+commit added by rebase 2
+
+
 
 
 
