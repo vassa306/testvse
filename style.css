@@ -8,10 +8,7 @@ h1 {
   margin-left: 20px;
 }
 
-h2 {
-  color: blue;
-  margin-left: 20px;
-}
+
 
 h3 {
   color: blue;
@@ -24,5 +21,15 @@ a{
 }
 
 p{
-    margin: auto;
+   margin-top: auto;
+   margin-left: 20px;
+}`
+
+ h2 {
+      color: blue;
+      margin-left: 20px;
+ }
+
+.first class{
+       background-color: white;
 }
