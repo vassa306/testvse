@@ -20,7 +20,7 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
-tohle, ale neni dalsi commit
+tohle je další comit
 
 tohle je from feature
 
