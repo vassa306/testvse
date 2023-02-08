@@ -28,9 +28,11 @@ tohle je ale velky problem
 
 A tohle mergne feature do masteru
 
-first commit added by rebase
+coommit added by rebase  1
 
-second commit added by rebase
+
+
+
 
 
 
