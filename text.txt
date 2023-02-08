@@ -30,6 +30,7 @@ A tohle mergne feature do masteru
 
 first commit added by rebase
 
+second commit added by rebase
 
 
 
