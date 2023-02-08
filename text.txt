@@ -20,12 +20,14 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
-tohle, ale neni dalsi commit
-
-
 tohle je ale velky problem
 
 A tohle mergne feature do masteru
+
+coommit added by rebase  1
+
+commit added by rebase 2
+
 
 
 
