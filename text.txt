@@ -20,6 +20,8 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
+tohle je další comit
+
 
 
 
