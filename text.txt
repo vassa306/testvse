@@ -22,8 +22,6 @@ This commit is from "feature" vetve
 
 tohle, ale neni dalsi commit
 
-tohle je from feature
->>>>>>> 6223261 (change text.txt from feature)
 
 
 
