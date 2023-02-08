@@ -24,7 +24,9 @@ tohle je další comit
 
 tohle je from feature
 
+tohle je ale velky problem
 
+A tohle mergne feature do masteru
 
 
 
