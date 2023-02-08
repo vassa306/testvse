@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-
 Pridano z masteru
 
 ANO, ale vždyť je to pravda, toto opravdu je naše první práce s konfliktem!!!!
@@ -22,7 +20,6 @@ This commit is from "feature" vetve
 Tohle je problém
 
 A tohle taky
-
 
 tohle je ale velky problem
 
