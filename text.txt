@@ -5,10 +5,6 @@ Pridano z masteru
 
 ANO, ale vždyť je to pravda, toto opravdu je naše první práce s konfliktem!!!!
 
-Ale ne tohle je prece pridano z masteru pokud se nemylim
-=======
-ANO, ale vždyť je to pravda, toto je opravdu první práce s konflikte!!!
-
 Tento commit byl pridan z devu 2
 
 Tento commit byl pridan z devu 3
