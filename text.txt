@@ -23,7 +23,9 @@ This commit is from "feature" vetve
 tohle, ale neni dalsi commit
 
 
+tohle je ale velky problem
 
+A tohle mergne feature do masteru
 
 
 
