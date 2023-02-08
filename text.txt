@@ -22,7 +22,7 @@ This commit is from "feature" vetve
 
 tohle je další comit
 
-
+tohle je from feature
 
 
 
