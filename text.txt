@@ -19,14 +19,9 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
-tohle je další comit
-
-tohle je from feature
-
 Tohle je problém
 
 A tohle taky
-
 
 
 
