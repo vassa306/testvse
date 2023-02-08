@@ -20,22 +20,10 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
-Tohle je problém
+tohle, ale neni dalsi commit
 
-A tohle taky
-
-tohle je ale velky problem
-
-A tohle mergne feature do masteru
-
-coommit added by rebase  1
-
-commit added by rebase 2
-
-
-
-
-
+tohle je from feature
+>>>>>>> 6223261 (change text.txt from feature)
 
 
 
