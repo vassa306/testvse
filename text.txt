@@ -1,9 +1,10 @@
 
-<<<<<<< HEAD
-
 Pridano z masteru
 
 ANO, ale vždyť je to pravda, toto opravdu je naše první práce s konfliktem!!!!
+
+
+Ale ne tohle je prece pridano z masteru pokud se nemylim
 
 Tento commit byl pridan z devu 2
 
@@ -19,11 +20,6 @@ This comit pridan z devu 7
 
 This commit is from "feature" vetve
 
-Tohle je problém
-
-A tohle taky
-
-
 tohle je ale velky problem
 
 A tohle mergne feature do masteru
@@ -31,10 +27,6 @@ A tohle mergne feature do masteru
 coommit added by rebase  1
 
 commit added by rebase 2
-
-
-
-
 
 
 
